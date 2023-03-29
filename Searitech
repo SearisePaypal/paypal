@@ -1,0 +1,20 @@
+Team:
+project 1
+========
+1. AWS Accounts are created for all team members 
+2. Create a redhat8 linux server 
+3. Connect to the redhat8 server using mobaXterm/terminal ssh-cleint 
+4. Program or configure the server for password authentication   
+5. Create a user call Searise and assign a password [admin123]
+6. Create a group call Searitech and add searise to searisetech group
+7. Create a directory in searise home directory call Searitech, 
+   in searisetech directory Create a searise.txt, in searise.txt 
+   write your experience about this class and your goals concerning this DevOps program
+8. Connect to your server using Searise's user
+9. Run commands in the server as Searise's user 
+    
+
+project 2
+========    
+7. Connect to your server using Searise user's details  
+8. Run your scripts as Searise user  
