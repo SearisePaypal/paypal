@@ -12,4 +12,15 @@ git log
 git show 7nos
 git branch development
 git branch stage
+git config --global username
+git config --global email
+git diff dev
+git merge dev
+git push
+git pull
+fork
+git fetch
+git rm
+git commit -a -m
+with all of these command, you will get a fair idea about git and github
 
