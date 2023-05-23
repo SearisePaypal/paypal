@@ -22,5 +22,7 @@ fork
 git fetch
 git rm
 git commit -a -m
-with all of these command, you will get a fair idea about git and github
+with all of these command, you would  get a fair idea about git and github
+And we need to keep in mind that git and github are diffrent terms.
+ 
 
